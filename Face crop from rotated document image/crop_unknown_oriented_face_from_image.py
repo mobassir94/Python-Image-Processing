@@ -1,5 +1,5 @@
 
-!pip install deepface
+#!pip install deepface #make sure deepface is installed
 from deepface import DeepFace
 from scipy import ndimage
 import cv2
